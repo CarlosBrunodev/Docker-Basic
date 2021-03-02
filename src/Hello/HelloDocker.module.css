@@ -1,0 +1,33 @@
+*{
+    background: #000000;    
+}
+
+.container{
+  max-width: 992px;
+  margin: 0 auto;
+
+}
+
+@media(max-width: 1080px) {
+  html {
+    font-size: 93.75%;
+  }
+}
+
+@media(max-width: 720px) {
+  html {
+    font-size: 87.5%;
+  }   
+}
+
+.react {
+  margin-top: 17rem;
+  margin-left: 8rem;
+}
+
+.docker{
+  width: 13rem;
+  margin-left: 20rem;
+}
+
+
